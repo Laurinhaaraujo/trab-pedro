@@ -1,0 +1,49 @@
+nav ul li a:hover {
+    text-decoration: underline;
+}
+nav ul{
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+   margin-left: 20px;
+}
+nav ul li a {
+    color: #0c0c0c;
+    text-decoration: none;
+}
+.o2{
+  border-radius: 6px;
+    margin-bottom: 10px;
+    
+}
+.o3{
+ border-radius: 6px;
+    margin-bottom: 10px;
+}
+.o4{
+border-radius: 6px;
+    margin-bottom: 10px;
+}
+.o5{
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.cartao2:hover{
+   
+    transform: scale(1.05);
+}
+.footer:hover{
+text-decoration: underline;
+color: #0c0c0c;
+    text-decoration: none;
+
+}
+.comentarios{
+ 
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+
+}
